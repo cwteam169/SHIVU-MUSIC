@@ -26,11 +26,11 @@ from datetime import datetime
 userbot = Userbot()
 
 
-BOT_LIST = ["StrangerSuperbot", "Melaniarobot", "Itz_SapnaMusicbot", "ITZ_MERADHIKABOT", "StrangerHackBot"]
+BOT_LIST = ["BlackLovermusic_bot", "BlackLoverUser_bot", "BlackLoverStringSeassion_bot", "BlackLoverChat_bot", "MusicScam_Black_Bot"]
 
 @app.on_message(filters.command("botschk") & filters.user(OWNER_ID))
 async def bots_chk(_, message):
-    msg = await message.reply_photo(photo="https://telegra.ph/file/4d303296e4fac9a40ea07.jpg", caption="**ᴄʜᴇᴄᴋɪɴɢ ʙᴏᴛs sᴛᴀᴛs ᴀʟɪᴠᴇ ᴏʀ ᴅᴇᴀᴅ...**")
+    msg = await message.reply_photo(photo="https://te.legra.ph/file/4b91ba6ee72587d382c61.jpg", caption="**ᴄʜᴇᴄᴋɪɴɢ ʙᴏᴛs sᴛᴀᴛs ᴀʟɪᴠᴇ ᴏʀ ᴅᴇᴀᴅ...**")
     response = "**ᴄʜᴇᴄᴋɪɴɢ ʙᴏᴛs sᴛᴀᴛs ᴀʟɪᴠᴇ ᴏʀ ᴅᴇᴀᴅ**\n\n"
     for bot_username in BOT_LIST:
         try:
