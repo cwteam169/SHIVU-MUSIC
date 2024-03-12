@@ -1,14 +1,14 @@
 <h2 align="center">
-    ─「 ˹𝐐ᴜᴇᴇɴ ꭙ 𝐌ᴜsɪᴄ˼ ♪ 」─
+    ─「 ˹𝐁ʟᴀᴄᴋ ꭙ 𝐌ᴜsɪᴄ˼ ♪ 」─
 
 </h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ㅤ+𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐐𝐔𝐄𝐄𝐍+𝐌𝐔𝐒𝐈𝐂+𝐑𝐄𝐏𝐎;ㅤ+𝚃𝙷𝙸𝚂+𝙸𝚂+𝙰+𝙰𝙳𝚅𝙰𝙽𝙲𝙴+𝙼𝚄𝚂𝙸𝙲+𝙱𝙾𝚃+🔥;𝙿𝙾𝚆𝙴𝚁𝙴𝙳+𝙱𝚈+☞+𝗠𝗥+𝗞𝗜𝗡𝗚+👑)](https://github.com/KING0712/QUEEN_MUSIC)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ㅤ+𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐁𝐋𝐀𝐂𝐊+𝐌𝐔𝐒𝐈𝐂+𝐑𝐄𝐏𝐎;ㅤ+𝚃𝙷𝙸𝚂+𝙸𝚂+𝙰+𝙰𝙳𝚅𝙰𝙽𝙲𝙴+𝙼𝚄𝚂𝙸𝙲+𝙱𝙾𝚃+🔥;𝙿𝙾𝚆𝙴𝚁𝙴𝙳+𝙱𝚈+☞+𝐁𝐋𝐀𝐂𝐊+𝐌𝐔𝐒𝐈𝐂+👑)](https://github.com/BLACKLOVER15/BLACK_MUSIC)
 
 
 
 <p align="center">
-  <img src="https://telegra.ph/file/d30d3f9cc4a2f5a09999a.jpg">
+  <img src="https://te.legra.ph/file/4b91ba6ee72587d382c61.jpg">
 </p>
 
 
@@ -26,4 +26,4 @@
 </h3>
 
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/KING0712/QUEEN_MUSIC"> <img src="https://graph.org/file/7758e15f135e166b8637d.jpg" width="520" height="198.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/BLACKLOVER15/BLACK_MUSIC"> <img src="https://graph.org/file/7758e15f135e166b8637d.jpg" width="520" height="198.45"/></a></p>
