@@ -1,6 +1,5 @@
 from typing import Union
-from SHUKLAMUSIC import app
-from SHUKLAMUSIC.utils.formatters import time_to_seconds
+
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 
@@ -71,6 +70,14 @@ def aq_markup(_, chat_id):
             InlineKeyboardButton(text="II", callback_data=f"ADMIN Pause|{chat_id}"),
             InlineKeyboardButton(text="‣‣I", callback_data=f"ADMIN Skip|{chat_id}"),
             InlineKeyboardButton(text="▢", callback_data=f"ADMIN Stop|{chat_id}"),
+        ],
+        [
+            InlineKeyboardButton(
+                text="• oᴡɴᴇʀ ✨", url=f"https://t.me/ll_SHIVANG_ll"
+            ),
+            InlineKeyboardButton(
+                text="• ꜱᴜᴘᴘᴏʀᴛ ✨", url=f"https://t.me/ll_R2F_FRIENDS_ll"
+            ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
     ]
